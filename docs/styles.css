@@ -12,8 +12,8 @@
   --ink:       #1c1c1a;   /* primary text             */
   --muted:     #6b6b64;   /* secondary text           */
   --line:      #e7e4dc;   /* hairline borders         */
-  --accent:    #3d5a80;   /* muted slate blue         */
-  --accent-2:  #2c4560;   /* darker hover             */
+  --accent:    #8c1515;   /* Stanford cardinal red    */
+  --accent-2:  #6e1111;   /* darker hover             */
   --radius:    14px;
   --maxw:      780px;
   --serif:     'Fraunces', Georgia, 'Times New Roman', serif;
@@ -136,7 +136,7 @@ main.content,
   border: 4px solid var(--surface);
   box-shadow:
     0 0 0 1px var(--line),
-    0 0 0 9px rgba(61, 90, 128, 0.06),
+    0 0 0 9px rgba(140, 21, 21, 0.06),
     0 12px 34px rgba(28, 28, 26, 0.14);
 }
 
@@ -150,8 +150,8 @@ main.content,
   font-size: 0.82rem;
   font-weight: 500;
   color: var(--accent-2);
-  background: #eef2f6;
-  border: 1px solid #dde6ee;
+  background: #f7ebeb;
+  border: 1px solid #ecd7d7;
   border-radius: 999px;
 }
 .hero-status .dot {
@@ -159,7 +159,7 @@ main.content,
   height: 7px;
   border-radius: 50%;
   background: var(--accent);
-  box-shadow: 0 0 0 3px rgba(61, 90, 128, 0.18);
+  box-shadow: 0 0 0 3px rgba(140, 21, 21, 0.18);
 }
 
 .hero-name {
@@ -283,10 +283,10 @@ main.content,
   margin: 1.4rem 0 0.5rem;
   padding: 1.5rem 1.6rem;
   background:
-    linear-gradient(180deg, #f3f6f9 0%, var(--surface) 70%);
-  border: 1px solid #dde6ee;
+    linear-gradient(180deg, #faf0f0 0%, var(--surface) 70%);
+  border: 1px solid #ecd7d7;
   border-radius: var(--radius);
-  box-shadow: 0 8px 26px rgba(61, 90, 128, 0.08);
+  box-shadow: 0 8px 26px rgba(140, 21, 21, 0.08);
 }
 .featured .kicker {
   display: inline-flex;
@@ -328,7 +328,7 @@ main.content,
   font-size: 0.85rem;
   font-weight: 500;
   padding: 0.28rem 0.8rem;
-  border: 1px solid #cfdae6;
+  border: 1px solid #e4cccc;
   border-radius: 999px;
   color: var(--accent);
   background: var(--surface);
@@ -406,7 +406,7 @@ main.content,
   letter-spacing: 0.04em;
   padding: 0.12rem 0.55rem;
   border-radius: 999px;
-  background: #eef2f6;
+  background: #f7ebeb;
   color: var(--accent-2);
   vertical-align: middle;
 }

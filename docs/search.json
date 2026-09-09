@@ -14,20 +14,6 @@
     "text": "Courses\n\n2025 – present Machine Learning: Support Vector Machines\n\nM.Sc. in Econometrics and Applied Statistics (ESA), University of Orléans — Lecturer\n\nClassification and regression, primal and dual formulations, soft-margin SVM, kernel methods, and practical applications in Python.\n\nNotes (EN) Notes (FR) Slides\n\n\n\n2025 – present Interpretable Machine Learning\n\nM.Sc. in Econometrics and Applied Statistics (ESA), University of Orléans — Lecturer\n\nModel interpretability and explainability, model-agnostic methods, partial dependence plots, ICE, ALE, surrogate models, LIME, and Shapley values (SHAP).\n\nSlides\n\n\n\n2024 – present Climate Risk and Financial Risk Management\n\nENSAI and University of Bordeaux — Lecturer\n\nTransmission channels from physical and transition climate risk to credit, market, and underwriting risk; implications for banking and insurance risk management and for regulatory climate stress-testing exercises.\n\n\n2026 Forthcoming Deep Learning for Time Series\n\nM.Sc. in Financial Engineering, Paris Dauphine University – PSL — Lecturer\n\nDeep learning for time-series modelling and forecasting: recurrent and convolutional architectures, modern sequence models, attention-based methods, transformers, and recent implementations such as Kolmogorov–Arnold Networks.\n\n\n2026 Forthcoming Regularization Methods\n\nM.Sc. in Applied Mathematics and Statistics (Financial Engineering), University of Bordeaux — Lecturer\n\nPenalized regression, Ridge, Lasso, Elastic Net, model selection, sparsity and shrinkage, the bias–variance trade-off, and practical implementation."
   },
   {
-    "objectID": "pt/index.html",
-    "href": "pt/index.html",
-    "title": "\nPortfolio\n",
-    "section": "",
-    "text": "Portfolio\n\n\nHere you will find a collection of projects :\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAirbnb Project\n\n\nPredicting Airbnb rental prices in London using a model to estimate potential investment returns and assist in strategic decision-making for affordable accommodations across…\n\n\n\n\n\n\n\n\n\n\n\n\nClimate Panel US\n\n\nA climate index was obtained using different methods. The objective of this project is to measure the impact of climate risk on the business sectors of S&P500 companies. To…\n\n\n\n\n\n\n\n\n\n\n\n\nVaR Project\n\n\nThis project aims to estimate the Value at Risk (VaR) of UnitedHealth Group’s stock and validate the accuracy through backtesting. The analysis covers the period from…\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "pt/VaR-Project.html",
-    "href": "pt/VaR-Project.html",
-    "title": "VaR Project",
-    "section": "",
-    "text": "Link to the project : Notebook"
-  },
-  {
     "objectID": "talks/index.html",
     "href": "talks/index.html",
     "title": "Talks & Seminars",
@@ -46,7 +32,7 @@
     "href": "research/index.html#publications",
     "title": "Research",
     "section": "Publications",
-    "text": "Publications\n\n★ Featured paper A Bayesian Approach to Probability of Default Model Calibration: Theoretical and Empirical Insights on the Jeffreys Test Christophe Hurlin and Yoann Pull · European Journal of Operational Research (accepted, 2026)\n\nA Bayesian reappraisal of the Jeffreys test used by supervisors to validate probability-of-default calibration, with theoretical results and empirical evidence on when the test can be trusted for credit-risk model validation.\n\n\nSSRN"
+    "text": "Publications\n\n★ Featured paper A Bayesian Approach to Probability of Default Model Calibration: Theoretical and Empirical Insights on the Jeffreys Test Christophe Hurlin and Yoann Pull · European Journal of Operational Research (accepted, 2026)\n\nA Bayesian reappraisal of the Jeffreys test used by supervisors to validate probability-of-default calibration, with theoretical results and empirical evidence on when the test can be trusted for credit-risk model validation.\n\n\nJournal (EJOR) SSRN"
   },
   {
     "objectID": "research/index.html#working-papers",
@@ -61,13 +47,6 @@
     "title": "Contact",
     "section": "",
     "text": "If you’d like to reach out about research, collaborations, or supervision, feel free to email me or connect on LinkedIn or GitHub.\n\nEmail — yoann.pull.pro [at] gmail [dot] com\nLinkedIn — Yoann Pull\nGitHub — YoannPull\nGoogle Scholar — Yoann Pull\nCV — Download (PDF)\n\nBased in Paris, France · Visiting Student Researcher, Department of Statistics, Stanford University, Fall 2026."
-  },
-  {
-    "objectID": "shiny/index.html",
-    "href": "shiny/index.html",
-    "title": "\nShiny App\n",
-    "section": "",
-    "text": "Shiny App\n\n\nExplore the shiny apps below:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nClimate risk\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJob Finder\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLife expectancy of a couple\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -89,54 +68,5 @@
     "title": "Yoann Pull",
     "section": "News",
     "text": "News\n\n\n\nSep 2026\n\n\nStarting a research visit at the Department of Statistics, Stanford University, hosted by Professor Aaditya Ramdas.\n\n\n\n\nJun 2026\n\n\nPresenting at the 18th Annual SoFiE Conference, University of Macau.\n\n\n\n\n2026\n\n\nOur paper on Bayesian probability-of-default calibration was accepted at the European Journal of Operational Research.\n\n\n\n\nMar 2026\n\n\nPresented at the 19th Financial Risks International Forum, Institut Louis Bachelier, Paris.\n\n\n\n\nNov 2025\n\n\nResearch seminar at the Laboratoire d’Économie d’Orléans, University of Orléans."
-  },
-  {
-    "objectID": "pt/Airbnb.html",
-    "href": "pt/Airbnb.html",
-    "title": "Airbnb Project",
-    "section": "",
-    "text": "Link to the project :\nNotebook"
-  },
-  {
-    "objectID": "pt/Airbnb.html#overview",
-    "href": "pt/Airbnb.html#overview",
-    "title": "Airbnb Project",
-    "section": "Overview",
-    "text": "Overview\nThis repository focuses on an in-depth case study aimed at predicting rental prices for apartments listed on Airbnb in London. The primary objective is to develop a sophisticated predictive model based on discernible real estate characteristics. This model serves a dual purpose: providing insightful estimates of potential returns from real estate investments and assisting in strategic decision-making when searching for reasonably priced accommodations in various London neighborhoods."
-  },
-  {
-    "objectID": "pt/Airbnb.html#dataset-features",
-    "href": "pt/Airbnb.html#dataset-features",
-    "title": "Airbnb Project",
-    "section": "Dataset Features",
-    "text": "Dataset Features\nWith a substantial dataset comprising 51,646 observations, our analysis focuses on 33 London boroughs, carefully selected as variables. The variables under consideration cover a range of factors, including property type, room configuration, and various amenities. To streamline the analytical process, the variables are meticulously categorized as quantitative (prefixed by “n_”), qualitative (prefixed by “f_”), and dummy variables (prefixed by “d_”), forming the foundation of an effective and nuanced predictive model."
-  },
-  {
-    "objectID": "pt/Airbnb.html#key-metrics",
-    "href": "pt/Airbnb.html#key-metrics",
-    "title": "Airbnb Project",
-    "section": "Key Metrics",
-    "text": "Key Metrics\n\nDataset size: 51,646 observations\nVariables: 65 columns\nFactors considered: Property type, room configuration, amenities\nVariable classification: Quantitative (prefixed by “n_”), Qualitative (prefixed by “f_”), and Dummy variables (prefixed by “d_”)\nTarget variable: ‘usd_price_day’"
-  },
-  {
-    "objectID": "pt/Airbnb.html#objective-and-importance",
-    "href": "pt/Airbnb.html#objective-and-importance",
-    "title": "Airbnb Project",
-    "section": "Objective and Importance",
-    "text": "Objective and Importance\nThe first step of our approach involves conducting an exploratory analysis to understand the data and evaluate the impact of different variables on the target variable. Using insights from this preliminary analysis, we then proceed to construct various predictive models. This approach ultimately allows us to choose the optimal model, guided by the findings from our earlier analyses."
-  },
-  {
-    "objectID": "pt/Airbnb.html#repository-navigation",
-    "href": "pt/Airbnb.html#repository-navigation",
-    "title": "Airbnb Project",
-    "section": "Repository Navigation",
-    "text": "Repository Navigation\n\nData Exploration and Insight Visualization: Dive deep into the dataset to uncover the intricacies of the London Airbnb market.\nModel Construction: Build multiple models, each undergoing parameter optimization using a validation set.\nPredictions: Test the top-performing models from each category on a generalization set. The standout model from this stage will be selected."
-  },
-  {
-    "objectID": "pt/US_Panel.html",
-    "href": "pt/US_Panel.html",
-    "title": "Climate Panel US",
-    "section": "",
-    "text": "Link to the GitHub :"
   }
 ]
